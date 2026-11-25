@@ -1,8 +1,4 @@
 # Project 6 - MVC Sederhana
-Riski Amanda            
-NIM : 0702243150                        
-Dosen : Suhendri, M.Kom
-MataKuliah : PBWL 
 
 Project ini adalah contoh framework MVC sederhana untuk Sistem Akademik.
 
